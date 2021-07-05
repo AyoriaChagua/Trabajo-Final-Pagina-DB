@@ -1,0 +1,113 @@
+
+
+a {
+    color: white;
+}
+.nav-link {
+    color: white;
+}
+.navbar-toggler-icon {
+    background-image: url("img/menu_2.png");
+}
+.header {
+    background-color: white;
+    border-color: white;
+    position: fixed;
+    z-index: 100;
+    width: 100%;  
+}
+h5 {
+    color: black;
+}
+.carousel-caption {
+    background-color:rgb(155, 88, 0, 0.75);
+    height: 100%;
+    left: 0;
+    top: 0;
+    padding: 30px 45px;
+    text-align: left;
+    width: 340px;
+}
+
+.rama {
+    color: rgb(209, 136, 0);
+}
+
+.rama:hover{
+    color: rgb(219, 29, 29);
+}
+h2 {
+    color: black;
+}
+p{
+    color: rgb(9, 0, 0);
+}
+#logo_carr3{
+    width: 100%;
+     height: 30%
+}
+#logo_carr2{
+    width: 80%;
+    height: 50%
+}
+#logo_carr1{
+    width: 80%;
+    height: 50%
+}
+#mi_carrusel{
+    padding-top: 11em;
+    opacity: .99;
+}
+.display-2{
+    font-weight: 600;
+}
+ #imagen_inicio:hover {
+     -webkit-transform:scale(1.1);
+     transform:scale(1.1);
+    }
+ #imagen_inicio{
+     overflow:hidden;
+    }
+#cards_art{
+    padding-top: 15em;
+    opacity: .99;
+
+}
+.card-img-top:hover{
+    -webkit-transform:scale(1.1);
+    transform:scale(1.1);
+}
+.card-img-top{
+    overflow:hidden;
+   }
+#con_not{
+    padding-top: 13em;
+    opacity: .99;
+}
+#con_vid{
+    padding-top: 13em;
+    opacity: .99;
+}
+#fecha{
+    color: rgba(86, 86, 89, 0.996);
+}
+#cont_com{
+    padding-top: 13em;
+    opacity: .99;
+    background-color: rgb(26, 24, 24);
+
+}
+#vid_lis{
+    padding-top: 13em;
+    opacity: .99;
+    background-color: rgb(26, 24, 24);
+
+}
+.list-group-item{
+    background: rgb(26, 26, 26);
+    color: white;
+}
+#principal_barra{
+    background: rgb(19, 19, 19);
+    border: orange;
+}
